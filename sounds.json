@@ -1,1 +1,27 @@
-[]
+[
+    {
+        "name": "uwu",
+        "audio": "Assets/uwu/uwu.mp3",
+        "image": "Assets/uwu/uwu.jpg"
+    },
+    {
+        "name": "at dooms gate",
+        "audio": "Assets/at dooms gate/at dooms gate.mp3",
+        "image": "Assets/at dooms gate/at dooms gate.jpg"
+    },
+    {
+        "name": "elevater music",
+        "audio": "Assets/elevater music/elevater music.mp3",
+        "image": "Assets/elevater music/elevater music.jpg"
+    },
+    {
+        "name": "metal pipe",
+        "audio": "Assets/metal pipe/metal pipe.mp3",
+        "image": "Assets/metal pipe/metal pipe.jpg"
+    },
+    {
+        "name": "wet fart",
+        "audio": "Assets/wet fart/wet fart.mp3",
+        "image": "Assets/wet fart/wet fart.jpg"
+    }
+]
