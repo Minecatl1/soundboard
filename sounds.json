@@ -1,8 +1,23 @@
 [
     {
+        "name": "huh cat",
+        "audio": "Assets/huh cat/huh cat.mp3",
+        "image": "Assets/huh cat/huh cat.jpg"
+    },
+    {
         "name": "uwu",
         "audio": "Assets/uwu/uwu.mp3",
         "image": "Assets/uwu/uwu.jpg"
+    },
+    {
+        "name": "GET OUT",
+        "audio": "Assets/GET OUT/GET OUT.mp3",
+        "image": "Assets/GET OUT/GET OUT.jpg"
+    },
+    {
+        "name": "Turn Off Your Computer",
+        "audio": "Assets/Turn Off Your Computer/Turn Off Your Computer.mp3",
+        "image": "Assets/Turn Off Your Computer/Turn Off Your Computer.jpg"
     },
     {
         "name": "at dooms gate",
@@ -10,9 +25,19 @@
         "image": "Assets/at dooms gate/at dooms gate.jpg"
     },
     {
+        "name": "Miku Miku beam",
+        "audio": "Assets/Miku Miku beam/Miku Miku beam.mp3",
+        "image": "Assets/Miku Miku beam/Miku Miku beam.jpg"
+    },
+    {
         "name": "elevater music",
         "audio": "Assets/elevater music/elevater music.mp3",
         "image": "Assets/elevater music/elevater music.jpg"
+    },
+    {
+        "name": "Yo Phone Linging",
+        "audio": "Assets/Yo Phone Linging/Yo Phone Linging.mp3",
+        "image": "Assets/Yo Phone Linging/Yo Phone Linging.jpg"
     },
     {
         "name": "metal pipe",
